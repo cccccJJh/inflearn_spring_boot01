@@ -1,3 +1,5 @@
+package calculator;
+
 public class CalDiv implements ICalculator {
 
     @Override

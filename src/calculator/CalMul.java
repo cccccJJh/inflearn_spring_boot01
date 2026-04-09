@@ -1,3 +1,5 @@
+package calculator;
+
 public class CalMul implements ICalculator {
 
     @Override
